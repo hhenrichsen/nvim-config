@@ -6,6 +6,7 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set smarttab
+set scrolloff=10
 
 " Don't double up on mode.
 set noshowmode

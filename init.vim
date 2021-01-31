@@ -35,7 +35,6 @@ runtime bindings.vim
 
 " Color scheme.
 colorscheme nord
-highlight Comment cterm=italic gui=italic
 
 " Highlight trailing whitespace.
 :highlight ExtraWhitespace ctermfg=red guifg=red
