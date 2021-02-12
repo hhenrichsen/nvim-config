@@ -14,8 +14,8 @@ nnoremap <leader>l <C-w>l
 nnoremap <leader>h <C-w>h
 nnoremap <leader>p :set paste!<CR>
 " Paste please
-nnoremap <leader>pp :set paste!<CR>"+p:set paste!<CR>
-nnoremap <leader>pP :set paste!<CR>"+P:set paste!<CR>
+nnoremap <leader>pp :set paste<CR>"+p:set paste&<CR>
+nnoremap <leader>pP :set paste<CR>"+P:set paste&<CR>
 " Yank please
 nnoremap <leader>y "+y
 vnoremap <leader>y "+y
